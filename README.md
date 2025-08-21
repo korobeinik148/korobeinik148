@@ -13,7 +13,7 @@
 
 ### Связаться со мной
 [![Telegram](https://img.shields.io/badge/-Telegram-f9c2b3?style=for-the-badge&logo=Telegram&logoColor=c45774)](https://t.me/milliardessa)
-[![Gmail](https://img.shields.io/badge/-Gmail-f9c2b3?style=for-the-badge&logo=Gmail&logoColor=c45774)](skorobeinik14@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-f9c2b3?style=for-the-badge&logo=Gmail&logoColor=c45774)](mailto:skorobeinik14@gmail.com)
 
 <br>
 
