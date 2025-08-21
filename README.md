@@ -6,9 +6,15 @@
 ![Jira](https://img.shields.io/badge/-Jira-f9c2b3?style=for-the-badge&logo=jira&logoColor=c45774)
 ![SQL](https://img.shields.io/badge/-SQL-f9c2b3?style=for-the-badge&logo=mysql&logoColor=c45774)
 ![Postman](https://img.shields.io/badge/-Postman-f9c2b3?style=for-the-badge&logo=Postman&logoColor=c45774)
+![SoapUI](https://img.shields.io/badge/-SoapUI-f9c2b3?style=for-the-badge&logo=SoapUI&logoColor=c45774)
 ![Git](https://img.shields.io/badge/-Git-f9c2b3?style=for-the-badge&logo=Git&logoColor=c45774)
 ![HTML](https://img.shields.io/badge/-HTML-f9c2b3?style=for-the-badge&logo=HTML5&logoColor=c45774)
 ![CSS](https://img.shields.io/badge/-CSS-f9c2b3?style=for-the-badge&logo=CSS&logoColor=c45774)
 
 ### Связаться со мной
 [![Telegram](https://img.shields.io/badge/-Telegram-f9c2b3?style=for-the-badge&logo=Telegram&logoColor=c45774)](https://t.me/milliardessa)
+[![Gmail](https://img.shields.io/badge/-Gmail-f9c2b3?style=for-the-badge&logo=Gmail&logoColor=c45774)](skorobeinik14@gmail.com)
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=korobeinik148&show_icons=true&bg_color=f9c2b3&text_color=c45774&title_color=c45774&icon_color=de6a7d)](https://github.com/korobeinik148/github-readme-stats)
