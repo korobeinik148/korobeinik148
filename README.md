@@ -3,11 +3,12 @@
 ## Я начинаю свой путь в мире тестирования
 
 ### Навыки
-![Jira](https://img.shields.io/badge/-Jira-f7a9a1?style=for-the-badge&logo=jira&logoColor=c45774)
-![SQL](https://img.shields.io/badge/-SQL-f7a9a1?style=for-the-badge&logo=mysql&logoColor=c45774)
-![Postman](https://img.shields.io/badge/-Postman-f7a9a1?style=for-the-badge&logo=Postman&logoColor=c45774)
-![Git](https://img.shields.io/badge/-Git-f7a9a1?style=for-the-badge&logo=Git&logoColor=c45774)
-![HTML](https://img.shields.io/badge/-HTML-f7a9a1?style=for-the-badge&logo=HTML5&logoColor=c45774)
-![CSS](https://img.shields.io/badge/-CSS-f7a9a1?style=for-the-badge&logo=CSS&logoColor=c45774)
+![Jira](https://img.shields.io/badge/-Jira-f9c2b3?style=for-the-badge&logo=jira&logoColor=c45774)
+![SQL](https://img.shields.io/badge/-SQL-f9c2b3?style=for-the-badge&logo=mysql&logoColor=c45774)
+![Postman](https://img.shields.io/badge/-Postman-f9c2b3?style=for-the-badge&logo=Postman&logoColor=c45774)
+![Git](https://img.shields.io/badge/-Git-f9c2b3?style=for-the-badge&logo=Git&logoColor=c45774)
+![HTML](https://img.shields.io/badge/-HTML-f9c2b3?style=for-the-badge&logo=HTML5&logoColor=c45774)
+![CSS](https://img.shields.io/badge/-CSS-f9c2b3?style=for-the-badge&logo=CSS&logoColor=c45774)
 
-Follow Me
+### Связаться со мной
+[![Telegram](https://img.shields.io/badge/-Telegram-f9c2b3?style=for-the-badge&logo=Telegram&logoColor=c45774)](https://t.me/milliardessa)
