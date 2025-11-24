@@ -24,6 +24,12 @@
 [Баг-репорты](https://github.com/korobeinik148/korobeinik148/blob/main/qa%20portfolio/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B.xlsx)
 
 ### Автотесты:
+[Навигация в браузере](https://github.com/korobeinik148/korobeinik148/blob/main/tests/browser_navigation.py)
+[Поиск элемента и клик](https://github.com/korobeinik148/korobeinik148/blob/main/tests/find_element.py)
+[Перемещение файла](https://github.com/korobeinik148/korobeinik148/blob/main/tests/moving_file.py)
+[Ввод данных в поля](https://github.com/korobeinik148/korobeinik148/blob/main/tests/data_input.py)
+[Чекбоксы](https://github.com/korobeinik148/korobeinik148/blob/main/tests/checkbox.py)
+[Авторизация](https://github.com/korobeinik148/korobeinik148/blob/main/tests/authorization.py)
 
 
 ### Связаться со мной
