@@ -13,7 +13,6 @@
 ![MySQL](https://img.shields.io/badge/-SQL-f9c2b3?style=for-the-badge&logo=mysql&logoColor=c45774)
 ![Git](https://img.shields.io/badge/-Git-f9c2b3?style=for-the-badge&logo=Git&logoColor=c45774)
 ![Bash](https://img.shields.io/badge/-Bash-f9c2b3?style=for-the-badge&logo=Bash&logoColor=c45774)
-![DevTools](https://img.shields.io/badge/-DevTools-f9c2b3?style=for-the-badge&logo= DevTools&logoColor=c45774)
 ![HTML](https://img.shields.io/badge/-HTML-f9c2b3?style=for-the-badge&logo=HTML5&logoColor=c45774)
 ![CSS](https://img.shields.io/badge/-CSS-f9c2b3?style=for-the-badge&logo=CSS&logoColor=c45774)
 ![Selenium](https://img.shields.io/badge/-Selenium-f9c2b3?style=for-the-badge&logo=Selenium&logoColor=c45774)
