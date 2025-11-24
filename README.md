@@ -1,20 +1,24 @@
 [![Header](https://github.com/korobeinik148/korobeinik148/blob/main/assets/ChatGPT%20Image%2021%20%D0%B0%D0%B2%D0%B3.%202025%20%D0%B3.%2C%2017_21_08.png)](https://t.me/milliardessa)
 
-## Я начинаю свой путь в мире тестирования
+## Привет, я Кира!
+
+### <p><br /><br />И я начинаю свой путь в мире IT. Люблю порядок, точность и логику<br />Моя цель &mdash; начать карьеру в тестировании и расти в направлении QA</p>
+
+### <p>Мои сильные стороны: <br />✨ анализировать требования<br />✨ искать несоответствия<br />✨ внимательность к деталям<br />✨ самообучаемость<br />✨ документировать тестирование</p>
 
 ### Навыки
+![MSOffice](https://img.shields.io/badge/-MSOffice-f9c2b3?style=for-the-badge&logo=MSOffice&logoColor=c45774)
 ![Jira](https://img.shields.io/badge/-Jira-f9c2b3?style=for-the-badge&logo=jira&logoColor=c45774)
-![SQL](https://img.shields.io/badge/-SQL-f9c2b3?style=for-the-badge&logo=mysql&logoColor=c45774)
 ![Postman](https://img.shields.io/badge/-Postman-f9c2b3?style=for-the-badge&logo=Postman&logoColor=c45774)
-![SoapUI](https://img.shields.io/badge/-SoapUI-f9c2b3?style=for-the-badge&logo=SoapUI&logoColor=c45774)
+![MySQL](https://img.shields.io/badge/-SQL-f9c2b3?style=for-the-badge&logo=mysql&logoColor=c45774)
 ![Git](https://img.shields.io/badge/-Git-f9c2b3?style=for-the-badge&logo=Git&logoColor=c45774)
+![Bash](https://img.shields.io/badge/-Bash-f9c2b3?style=for-the-badge&logo=Bash&logoColor=c45774)
 ![HTML](https://img.shields.io/badge/-HTML-f9c2b3?style=for-the-badge&logo=HTML5&logoColor=c45774)
 ![CSS](https://img.shields.io/badge/-CSS-f9c2b3?style=for-the-badge&logo=CSS&logoColor=c45774)
+![Selenium](https://img.shields.io/badge/-Selenium-f9c2b3?style=for-the-badge&logo=Selenium&logoColor=c45774)
+![Python](https://img.shields.io/badge/-Python-f9c2b3?style=for-the-badge&logo=Python&logoColor=c45774)
+
 
 ### Связаться со мной
 [![Telegram](https://img.shields.io/badge/-Telegram-f9c2b3?style=for-the-badge&logo=Telegram&logoColor=c45774)](https://t.me/milliardessa)
 [![Gmail](https://img.shields.io/badge/-Gmail-f9c2b3?style=for-the-badge&logo=Gmail&logoColor=c45774)](mailto:skorobeinik14@gmail.com)
-
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=korobeinik148&show_icons=true&bg_color=f9c2b3&text_color=c45774&title_color=c45774&icon_color=de6a7d)](https://github.com/korobeinik148/github-readme-stats)
